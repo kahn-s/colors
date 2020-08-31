@@ -62,7 +62,7 @@ footer {
   header {
     background-color: grey;
   }
-
+  
   #column-1 {
     background-color: palevioletred;
   }
@@ -78,7 +78,9 @@ footer {
   footer {
     background-color: indigo;
   }
-  
+  .col-3{
+    width: 50%;
+  }
 }
 
 
@@ -103,5 +105,7 @@ footer {
   footer {
     background-color: midnightblue;
   }
-   
+   .col-3{
+     width: 33.33%;
+   }
 }
